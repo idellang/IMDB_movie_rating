@@ -16,7 +16,7 @@ Files from this repo
 **Feature Importance from the random forest model**
 ![](plots/RF_Importance.png?raw=true)
 
-**Highest weighted words from linear regression and stochastic gradient descednt models**
+**Highest weighted words from linear regression and stochastic gradient descent models**
 
 ![](plots/text_coef.png?raw=true)
 
