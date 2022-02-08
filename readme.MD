@@ -14,11 +14,11 @@ Files from this repo
 
 
 **Feature Importance from the random forest model**
-(https://github.com/idellang/IMDB_movie_rating/blob/master/plots/RF_Importance.png)
+![](plots/RF_Importance.png?raw=true)
 
 **Highest weighted words from linear regression and stochastic gradient descednt models**
 
-(https://github.com/idellang/IMDB_movie_rating/blob/master/plots/text_coef.png)
+![](plots/text_coef.png?raw=true)
 
 libraries used:
 - numpy                  1.20.3
