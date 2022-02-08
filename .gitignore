@@ -1,3 +1,4 @@
 files
 .ipynb_checkpoints
 *.csv
+.gitignore
